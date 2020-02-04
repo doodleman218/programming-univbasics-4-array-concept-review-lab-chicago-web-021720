@@ -15,6 +15,7 @@ end
 #end
 
 def find_max_value(array)
+  x = 0 
   
 end
 
