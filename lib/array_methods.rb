@@ -16,9 +16,10 @@ end
 
 def find_max_value(array)
   x = 0 
-  array.length.times do
-    
+  array.length.times do |index|
+  x >array  
   end
+  x
 end
 
 
